@@ -1,10 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Lesson from './02_components/Lesson.jsx'
+// import Lesson from './02_components/Lesson.jsx'
+import Lesson from './03_state/Lesson'
+
+
+
 // import './index.css';
 // import App from './App';
 // import reportWebVitals from './reportWebVitals';
-
 
 ReactDOM.render(<Lesson />,document.getElementById('root'));
 
