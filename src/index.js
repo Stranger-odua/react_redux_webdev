@@ -1,11 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-// import Lesson from './02_components/Lesson.jsx'
-import Lesson from './03_state/Lesson'
+// import Lesson from './02_components/Lesson'
+// import Lesson from './03_state/Lesson'
+import Lesson from './04_props/Lesson'
 
 
 
-// import './index.css';
+// import './index.css';Lesson.jsx
 // import App from './App';
 // import reportWebVitals from './reportWebVitals';
 
