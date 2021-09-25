@@ -6,7 +6,8 @@ import ReactDOM from 'react-dom';
 // import {Lesson, Counter, Button} from './05_props/Lesson'
 // import App from './06_events/Lesson'
 // import App from './07_conditional_rendering/Lesson'
-import App from './08_lists_and_keys/Lesson'
+// import App from './08_lists_and_keys/Lesson'
+import Table from './09_fragment_and_css/Lesson'
 
 
 // import './index.css';Lesson.jsx
@@ -21,7 +22,7 @@ import App from './08_lists_and_keys/Lesson'
 //   , document.getElementById('root'));
 
 ReactDOM.render(
-  <App/>
+  <Table/>
   , document.getElementById('root'));
 
 
