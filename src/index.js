@@ -7,7 +7,8 @@ import ReactDOM from 'react-dom';
 // import App from './06_events/Lesson'
 // import App from './07_conditional_rendering/Lesson'
 // import App from './08_lists_and_keys/Lesson'
-import Table from './09_fragment_and_css/Lesson'
+// import Table from './09_fragment_and_css/Lesson'
+import Form from './10_form/Lesson'
 
 
 // import './index.css';Lesson.jsx
@@ -22,7 +23,7 @@ import Table from './09_fragment_and_css/Lesson'
 //   , document.getElementById('root'));
 
 ReactDOM.render(
-  <Table/>
+  <Form/>
   , document.getElementById('root'));
 
 
