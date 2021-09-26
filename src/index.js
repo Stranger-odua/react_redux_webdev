@@ -9,7 +9,8 @@ import ReactDOM from 'react-dom';
 // import App from './08_lists_and_keys/Lesson'
 // import Table from './09_fragment_and_css/Lesson'
 // import Form from './10_form/Lesson'
-import Form from './12_links (refs)/Lesson'
+// import Form from './12_links (refs)/Lesson'
+import Lesson from './13_hoc/Lesson'
 
 
 // import './index.css';Lesson.jsx
@@ -24,7 +25,7 @@ import Form from './12_links (refs)/Lesson'
 //   , document.getElementById('root'));
 
 ReactDOM.render(
-  <Form/>
+  <Lesson/>
   , document.getElementById('root'));
 
 
